@@ -1,0 +1,27 @@
+D:\Проекты\Шифрование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Проекты\Шифрование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Проекты\Шифрование\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Проекты\Шифрование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Проекты\Шифрование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Проекты\Шифрование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Проекты\Шифрование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Проекты\Шифрование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Проекты\Шифрование\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Фигуры - тестовое\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Фигуры - тестовое\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Фигуры - тестовое\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Фигуры - тестовое\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Фигуры - тестовое\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Фигуры - тестовое\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Фигуры - тестовое\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Фигуры - тестовое\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Фигуры - тестовое\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Фигуры - тестовое\SimplePainter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Фигуры - тестовое\SimplePainter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Фигуры - тестовое\SimplePainter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Фигуры - тестовое\SimplePainter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Фигуры - тестовое\SimplePainter\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Фигуры - тестовое\SimplePainter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Фигуры - тестовое\SimplePainter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Фигуры - тестовое\SimplePainter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Фигуры - тестовое\SimplePainter\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
